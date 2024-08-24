@@ -61,18 +61,7 @@ This project consists of three main repositories:
 ## ENS Integration & L1SLoad Precompile
 
 - **ENS Integration**: Implements ENS as a subdomain for freelancers, acting as a reputation system. This allows freelancers to showcase their verified profile on a decentralized web, building trust and credibility in the community.
-- **L1SLoad Precompile**: Utilizes Scroll's L1SLoad Precompile to bridge data from Layer 1 (L1) into Layer 2 (L2), ensuring that important reputation data and job information are accurately reflected across the blockchain.
-
-## Smart Contracts
-
-Our smart contracts automate the entire process from job creation to payment. The main contracts include:
-
-- `GigBlocks.sol`: Manages job creation, assignment, completion, payment, and disputes.
-- `GigBlocksUserManager.sol`: Handles user registration, profiles, ratings, and preferences.
-- `GigBlocksReputation.sol`: Manages reputation tokens (NFTs) and related functionality.
-- `GigBlocksJobManagement.sol`: Implements core job management functions, including creating, updating, canceling jobs, and managing payments.
-- `GigBlocksView.sol`: Provides view functions for querying jobs and user profiles.
-- `GigBlocksResolverScrollENS.sol`: Resolves L1 ENS Address Record into L2 Scroll Sepolia Network.
+- **L1SLoad Precompile**: Utilizes Scroll's L1SLoad Precompile to bridge data from Layer 1 (L1) into Layer 2 (L2), resolving ENS Domain using scroll network.
 
 ## Getting Started
 
