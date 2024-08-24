@@ -83,6 +83,7 @@ This project consists of three main repositories:
 
 
 # Future Plans
+- Deploying on Scroll Mainnet (ASAP)
 - Implement ZK features for privacy-preserving work verification
 - Expand ENS integration for comprehensive reputation management
 - Develop advanced dispute resolution mechanisms
