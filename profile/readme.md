@@ -2,9 +2,46 @@
 
 GigBlocks is a decentralized freelancing platform built on Scroll blockchain, leveraging ENS for reputation management. It aims to solve issues of traditional freelance platforms by offering transparency, global access, and fair treatment of freelancers. Key features include smart contract-based job management, ENS-powered reputation system, and future plans for ZK-based privacy features.
 
-## Project Overview
+# Project Overview
 
-GigBlocks leverages blockchain technology and smart contracts to automate job creation, assignment, completion, and payment processes. By using decentralized storage and a robust reputation system, we ensure all transactions are secure, transparent, and immutable.
+## Problem
+
+Traditional freelance platforms lack:
+
+- Freedom
+- Global access
+- Transparency
+- Genuine care for freelancers
+
+## Solution
+
+Decentralize the core protocol for freelancing gigs, including:
+
+- Payouts
+- Escrow
+- Profile management
+- Communication
+- Reputation
+
+## Target Audience
+
+- Global freelancers
+- Web3 jobs market
+
+## Competitive Landscape
+- Dework (abandoned platform)
+- Bounty Caster (focuses on small-scale work)
+- Custom bounty platforms (resource-intensive to manage)
+
+## Differentiators 
+- Gigblocks can be Active development and maintenance
+- Gigblocks Focus on medium to large-scale freelance work
+- Gigblocks Easy-to-use, decentralized platform
+
+# Technical Architecture
+
+![image](https://github.com/user-attachments/assets/f37a0e91-9105-4e80-a90f-660740b01d95)
+
 
 ## Key Features
 
