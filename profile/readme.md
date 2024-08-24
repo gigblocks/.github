@@ -1,6 +1,6 @@
-# GigBlocks: Revolutionize Freelancing with Scroll-Powered Decentralization
+# GigBlocks: Decentralizing Freelance Work
 
-GigBlocks is a decentralized platform that manages freelance jobs and payments through blockchain technology. Our mission is to create a secure, transparent, and reliable ecosystem where freelancers can find jobs, get paid fairly, and build their reputation, while clients can ensure the work they pay for is completed to their satisfaction.
+GigBlocks is a decentralized freelancing platform built on Scroll blockchain, leveraging ENS for reputation management. It aims to solve issues of traditional freelance platforms by offering transparency, global access, and fair treatment of freelancers. Key features include smart contract-based job management, ENS-powered reputation system, and future plans for ZK-based privacy features.
 
 ## Project Overview
 
