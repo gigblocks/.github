@@ -78,7 +78,7 @@ This project consists of three main repositories:
 ## Ethereum Ecosystem
 - Alignment with Ethereum's mission of global financial freedom access
 - Democratization of freelance protocols
-- Protection and advocacy for freelancers
+- Borderless, permissionless transactions for freelancers worldwide
 - Provision of long-term work data within the Ethereum ecosystem
 
 
