@@ -43,14 +43,19 @@ Decentralize the core protocol for freelancing gigs, including:
 ![image](https://github.com/user-attachments/assets/f37a0e91-9105-4e80-a90f-660740b01d95)
 
 
-## Key Features
+# Key Features
 
 - **Job Management**: Clients can create jobs, assign freelancers, and approve completed work, with payments securely handled by smart contracts.
 - **Reputation System**: Freelancers build their reputation through a non-fungible token (NFT) system, earning project points and maintaining a verified profile.
 - **Payment Security**: All payments are held in escrow and only released upon job completion, ensuring fairness and security for both clients and freelancers.
 - **Decentralized Storage**: User profiles and job details are stored on IPFS, ensuring data integrity and availability.
 
-## Repositories
+## ENS Integration & L1SLoad Precompile Scroll Devnet
+
+- **ENS Integration**: Implements ENS as a subdomain for freelancers, acting as a reputation system. This allows freelancers to showcase their verified profile on a decentralized web, building trust and credibility in the community.
+- **L1SLoad Precompile**: Utilizes Scroll's L1SLoad Precompile to bridge data from Layer 1 (L1) into Layer 2 (L2), resolving ENS Domain using scroll network.
+
+# Repositories
 
 This project consists of three main repositories:
 
@@ -58,10 +63,31 @@ This project consists of three main repositories:
 2. `contracts-gigblocks`: Contains smart contracts responsible for job management, user management, ENS (Ethereum Name Service), and reputation handling.
 3. `ui-gigblocks`: The frontend built with Next.js, providing an intuitive interface for clients and freelancers.
 
-## ENS Integration & L1SLoad Precompile
+# Sponsor-Specific Benefits
 
-- **ENS Integration**: Implements ENS as a subdomain for freelancers, acting as a reputation system. This allows freelancers to showcase their verified profile on a decentralized web, building trust and credibility in the community.
-- **L1SLoad Precompile**: Utilizes Scroll's L1SLoad Precompile to bridge data from Layer 1 (L1) into Layer 2 (L2), resolving ENS Domain using scroll network.
+## Scroll Blockchain
+- Connection of L1 data to L2
+- Research and experimentation for chain growth
+- Increased traffic to Scroll chain
+- Future expansion of ZK features for freelancers
+## ENS
+- Expansion of ENS profiles
+- Integration of work history into ENS
+- Support for R&D in ENS applications
+
+## Ethereum Ecosystem
+- Alignment with Ethereum's mission of global financial freedom access
+- Democratization of freelance protocols
+- Protection and advocacy for freelancers
+- Provision of long-term work data within the Ethereum ecosystem
+
+
+# Future Plans
+- Implement ZK features for privacy-preserving work verification
+- Expand ENS integration for comprehensive reputation management
+- Develop advanced dispute resolution mechanisms
+
+
 
 ## Getting Started
 
