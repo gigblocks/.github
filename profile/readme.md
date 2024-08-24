@@ -88,5 +88,18 @@ This project consists of three main repositories:
 - Expand ENS integration for comprehensive reputation management
 - Develop advanced dispute resolution mechanisms
 
+# Gigblocks SmartContracts
+
+```
+Gigblocks Smart Contract (Scroll Sepolia Network): 0xcaa94f71984474bF224E6A42b0d789d219CbFC82
+Gigblocks Reputation NFT Contract (Scroll Sepolia Network) : 0x53150932ee5e5454ffbb88ca2b3ae6c3e63eeea9 
+GigblocksEnsResolver (L1sload Precompile Devnet): 0x53150932EE5e5454fFbb88cA2B3Ae6C3E63eeea9
+```
+
+link Gigblocks SmartContract : https://sepolia.scrollscan.com/address/0xcaa94f71984474bF224E6A42b0d789d219CbFC82
+
+link Gigblocks NFT Contract : https://sepolia.scrollscan.com/address/0x53150932ee5e5454ffbb88ca2b3ae6c3e63eeea9
+
+link GigblocksEnsResolver : https://l1sload-blockscout.scroll.io/address/0x53150932EE5e5454fFbb88cA2B3Ae6C3E63eeea9
 
 
