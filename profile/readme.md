@@ -90,39 +90,3 @@ This project consists of three main repositories:
 
 
 
-## Getting Started
-
-To get started with GigBlocks:
-
-1. **Clone the Repositories**:
-   ```
-   git clone https://github.com/hackathon-eth-tokyo-id/services-gigblocks.git
-   git clone https://github.com/hackathon-eth-tokyo-id/contracts-gigblocks.git
-   git clone https://github.com/hackathon-eth-tokyo-id/ui-gigblocks.git
-   ```
-
-2. **Install Dependencies**:
-   Navigate to each repository and install the necessary dependencies:
-   ```
-   cd services-gigblocks && npm install
-   cd ../contracts-gigblocks && npm install
-   cd ../ui-gigblocks && npm install
-   ```
-
-3. **Deploy Smart Contracts**:
-   Deploy the smart contracts on your preferred blockchain network. Refer to the `contracts-gigblocks` repository for specific deployment instructions.
-
-4. **Run the Services**:
-   Start the API services and frontend UI. Refer to each repository's README for specific run commands.
-
-## Contributing
-
-We welcome contributions to GigBlocks! Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or concerns, please open an issue in the relevant repository or contact our team at support@gigblocks.net.
